@@ -1,2 +1,2 @@
 # Tetris-Genetic-IA
-A simple tetris game provided with a simple IA and a genetic algorithm
+A simple tetris game provided with a IA and a genetic algorithm
